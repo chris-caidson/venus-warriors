@@ -1,0 +1,8 @@
+{
+  "name": "venus-warriors",
+  "app_id": "90f33b50",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
